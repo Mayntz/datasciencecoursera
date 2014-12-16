@@ -1,4 +1,8 @@
-datasciencecoursera
+Datasciencecoursera
 ===================
 
-A repo created for the Coursera course project
+### A repo created for the Coursera course project
+
+*Edit
+
+
